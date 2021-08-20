@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'Bởi vì Quân vừa thân thiện tốt bụng hiền lành lại đẹp trai phong độ ngời ngời',
     mess: 'Tôi biết mà, cứ khen thừa.',
     messDesc: 'Mãi yêu Quân đúng không?',
-    btnAccept: 'Đúng vậy đó!!!',
+    btnAccept: 'Đúng vậy đó!!!!',
     messLink: 'https://www.facebook.com/CuuTuyHuan/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 {
