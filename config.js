@@ -13,4 +13,4 @@ const CONFIG = {
     messDesc: 'Mãi yêu Quân đúng không?',
     btnAccept: 'Đúng vậy đó!!!',
     messLink: 'https://www.facebook.com/CuuTuyHuan/' //link mess của các bạn. VD: https://m.me/nam.nodemy
-{
+}
