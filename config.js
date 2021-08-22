@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Xin chào The Allure',
+    introTitle: 'Xin chào bla bla',
     introDesc: `Hôm nay chúng ta khảo sát về sự đẹp trai của Quân nhé`,
     btnIntro: 'Ngoan, bấm vào đây',
     title: 'Có phải Quân là người đẹp trai nhất trên đời?',
